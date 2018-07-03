@@ -5,5 +5,6 @@ public class Test {
         System.out.println("sssss");
         System.out.println("qiuzhechousile");	
 	System.out.println("添加了语音识别");
+	System.out.println("添加了人脸识别");
     }
 }
