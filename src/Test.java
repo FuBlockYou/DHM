@@ -4,6 +4,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("sssss");
         System.out.println("qiuzhechousile");	
-	System.out.println("ÓïÒôÊ¶±ğ¹¦ÄÜ");
+	System.out.println("æ·»åŠ äº†è¯­éŸ³è¯†åˆ«");
     }
 }
